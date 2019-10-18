@@ -3,16 +3,19 @@
     这里是git测试
     <!-- lry -->
     <div>这里是路人乙的注册</div>
+    <!-- 这里是路人甲 -->
+    <Login></Login>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import Login from './components/Login'
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    HelloWorld,
+    Login
   }
 }
 </script>
