@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     这里是git测试
+    <!-- lry -->
+    <div>这里是路人乙的注册</div>
   </div>
 </template>
 
